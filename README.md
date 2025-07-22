@@ -19,7 +19,6 @@ This app empowers stakeholders to make informed decisions on resource allocation
 
 Set dataManagerTables = '','Patient Details','AdmissionMethod','Resources','DischargeMethods','HealthServiceCalendar','HCResGroup','Gender','Specialties';
 
-
 For each name in $(dataManagerTables) 
     Let index = 0;
     Let currentName = name; 
