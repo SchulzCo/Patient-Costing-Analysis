@@ -1,0 +1,4 @@
+GenderDetails
+       0Unknown
+       1Male
+       2Female
