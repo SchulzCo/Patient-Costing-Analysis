@@ -15,4 +15,7 @@ This app empowers stakeholders to make informed decisions on resource allocation
 ⚙️ </> Developed Script </> ⚙️
 -------------------------------------
 
+![Dashboard Qlik KPIs](/qlik_kpi_dashboard.png)
+
+
 
