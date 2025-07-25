@@ -12,7 +12,7 @@ This project consists of a custom-built Qlik Sense application designed to analy
 
 This app empowers stakeholders to make informed decisions on resource allocation, patient care optimization, and financial planning within healthcare environments.
 
-⚙️ </> Inglés:Patient cost analysis dashboard  </> ⚙️
+⚙️ </> Patient cost analysis dashboard  </> ⚙️
 -------------------------------------
 
 ![Dashboard Qlik KPIs](/qlik_kpi_dashboard.png)
